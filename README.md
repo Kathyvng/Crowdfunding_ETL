@@ -1,7 +1,4 @@
-# Crowdfunding_ETL
-Project 2
-
-# Crowdfunding ETL Project
+# Crowdfunding ETL Project 2
 
 ## Overview
 
