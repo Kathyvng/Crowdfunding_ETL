@@ -68,7 +68,7 @@ Choose one of the following methods to process `contacts.xlsx`:
 ---
 
 ## Deliverables
-1. Transformed CSV files:
+1. Transformed CSV files found in `Resources/`:
    - `category.csv`
    - `subcategory.csv`
    - `campaign.csv`
