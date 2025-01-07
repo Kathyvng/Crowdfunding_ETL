@@ -74,7 +74,7 @@ Choose one of the following methods to process `contacts.xlsx`:
    - `campaign.csv`
    - `contacts.csv`
    - `Crowdfunding_ERD_QuickDBD.png`
-   - 2. Database schema file: `crowdfunding_db_schema.sql`.
+2. Database schema file: `crowdfunding_db_schema.sql`.
 3. Final Jupyter notebook: `ETL_Mini_Project_FINAL.ipynb`.
 
 ---
