@@ -10,7 +10,7 @@ This project involves creating an ETL (Extract, Transform, Load) pipeline for pr
 
 - `ETL_Mini_Project_FINAL.ipynb`: The final Jupyter notebook where the ETL process will be implemented.
 - `crowdfunding_db_schema.sql`: SQL schema for the database.
-- `Resources/`: Folder containing the Excel, CSV files, and Crowdfunding ERD Diagram.
+- `Resources/`: Folder containing the Excel, CSV files, Crowdfunding_ERD_QuickDBD PNG Diagram.
 - `Starter_Code_Notebooks/`: Folder containing the individual starter code files.
 - `category.csv`: Transformed data for campaign categories.
 - `subcategory.csv`: Transformed data for campaign subcategories.
@@ -73,8 +73,8 @@ Choose one of the following methods to process `contacts.xlsx`:
    - `subcategory.csv`
    - `campaign.csv`
    - `contacts.csv`
-   - `Crowdfunding_ERD.png`
-2. Database schema file: `crowdfunding_db_schema.sql`.
+   - `Crowdfunding_ERD_QuickDBD.png`
+   - 2. Database schema file: `crowdfunding_db_schema.sql`.
 3. Final Jupyter notebook: `ETL_Mini_Project_FINAL.ipynb`.
 
 ---
